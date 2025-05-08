@@ -9,8 +9,8 @@ For_Grind-75_Train++LeetCode!
 Asana ([行事曆](https://app.asana.com/1/))
 Toggl ([紀錄時刻](https://toggl.com/))
 
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/kurrxr?theme=dark&font=Kanit&ext=heatmap)
+從0開始的leetCode
+![Leetcode Stats](https://leetcard.jacoblin.cool/kurrxr?ext=activity)
 
 
 
