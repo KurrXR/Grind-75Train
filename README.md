@@ -1,20 +1,24 @@
 # Grind-75Train
-For_Grind-75_Train++LeetCode!
-
-
-2025-05-07
-1.TwoSum理解 Add. 
-
-
+For_Grind-75_Train++LeetCode!<br>
 Asana ([行事曆](https://app.asana.com/1/))
 Toggl ([紀錄時刻](https://toggl.com/))
 
 
+2025-05-07
+1.TwoSum理解 Add. (IN PROGRESS)
+
+
+
+
+<h2>從0開始的leetCode</h3>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kurrxr?ext=activity)
-從0開始的leetCode		
 
 
-
+# References
+Grind-75([Grind-75](https://www.techinterviewhandbook.org/grind75/))<br>
+NeetCode([NeetCode-150](https://neetcode.io/practice?tab=neetcode150))
+<h2>砍掉80%生活干擾</h2>
 **核心理念：從「被動反應」轉為「主動設計」你的生活。**
 
 **第一階段：盤點與覺察 (Identify & Audit) - 了解干擾源頭 (約1-2週)**
