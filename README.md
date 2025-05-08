@@ -6,8 +6,8 @@ For_Grind-75_Train++LeetCode!
 1.TwoSum理解 Add. 
 
 
-Asana (行事曆)
-Toggl (紀錄時刻)
+Asana ([行事曆](https://app.asana.com/1/))
+Toggl ([紀錄時刻](https://toggl.com/))
 
 **核心理念：從「被動反應」轉為「主動設計」你的生活。**
 
