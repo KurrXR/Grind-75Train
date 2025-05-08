@@ -6,6 +6,8 @@ Toggl ([紀錄時刻](https://toggl.com/))
 
 2025-05-07
 1.TwoSum理解 Add. (IN PROGRESS)
+2025-05-08
+20. Valid Parentheses (waiting)
 
 
 
