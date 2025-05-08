@@ -9,6 +9,11 @@ For_Grind-75_Train++LeetCode!
 Asana ([行事曆](https://app.asana.com/1/))
 Toggl ([紀錄時刻](https://toggl.com/))
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kurrxr?theme=dark&font=Kanit&ext=heatmap)
+
+
+
 **核心理念：從「被動反應」轉為「主動設計」你的生活。**
 
 **第一階段：盤點與覺察 (Identify & Audit) - 了解干擾源頭 (約1-2週)**
