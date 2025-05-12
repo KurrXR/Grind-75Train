@@ -3,11 +3,13 @@ For_Grind-75_Train++LeetCode!<br>
 Asana ([行事曆](https://app.asana.com/1/))
 Toggl ([紀錄時刻](https://toggl.com/))
 
-
-2025-05-07
+state(IN PROGRESS、WAITING、SUCCESS)<br>
+2025-05-07<br>
 1.TwoSum理解 Add. (IN PROGRESS)<p>
-2025-05-08
-20. Valid Parentheses (waiting)<p>
+2025-05-08<br>
+20. Valid Parentheses (WAITING)<p>
+2025-05-12<br>
+1.TwoSum(REVIEW)<p>
 
 
 
