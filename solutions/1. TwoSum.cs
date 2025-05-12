@@ -16,24 +16,25 @@
     }
 }
 */
-
-public class Solution //Dictionary<補數,index>
+public class Solution // D: Dictionary<數值, 索引>
 {
     public int[] TwoSum(int[] nums, int target)
     {
-        Dictionary<int, int> dic = new Dictionary<int, int>();
-        for (int i = 0; i < nums.Length; i++)  //一般迴圈迭代
-        {              //7
-            int comp = target - nums[i]; //定義補數comp
-            if (dic.ContainsKey(comp)) //如果dic有補數就回傳
+        Dictionary<int, int> dic = new Dictionary<int, int>(); // 建立記錄過去數字與其索引的雜湊表
+
+        for (int i = 0; i < nums.Length; i++)  // 遍歷陣列每個元素
+        {
+            int comp = target - nums[i]; // 計算補數：希望找一個之前出現過的數，使得 comp + nums[i] == target
+
+            if (dic.ContainsKey(comp)) // 如果補數曾出現過（即 dic 中已有紀錄）
             {
-                return new int[] { dic[comp], i };
-                //加入dic[補數]和 i
+                return new int[] { dic[comp], i }; // 回傳補數的位置（value）與目前位置（i）
             }
 
-            dic[nums[i]] = i;
-            //如果沒有就把nums[i]當key, i當value放進dic
+            dic[nums[i]] = i; // 紀錄目前的數字及其索引，供後續查找使用
         }
-        return new int[] { };
+
+        return new int[] { }; // 理論上不會執行（題目保證一定有解），只是語法保險
     }
 }
+
