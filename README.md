@@ -10,7 +10,8 @@ state(IN PROGRESS、WAITING、SUCCESS)<br>
 20. Valid Parentheses (WAITING)<p>
 2025-05-12<br>
 1.TwoSum(REVIEW)<p>
-
+2025-05-13<br>
+20. Valid Parentheses (IN PROGRESS)<p>
 
 
 
