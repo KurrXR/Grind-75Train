@@ -3,7 +3,8 @@ public class Solution
     public bool IsValid(string s)
     {
         Stack<char> stack = new Stack<char>();
-        Dictionary<char, char> pairs = new Dictionary<char, char>{ //因為左邊是Key,右邊是value 所以若DictionaryKey "(" 則去找 ")"
+        Dictionary<char, char> pairs = 
+        new Dictionary<char, char>{ //因為左邊是Key,右邊是value 所以若DictionaryKey "(" 則去找 ")"
             {')','('},
             {']','['},
             {'}','{'}
@@ -29,5 +30,13 @@ public class Solution
         return stack.Count == 0; // 若stack為空,則return true
 
 
+    }
+}
+
+public class Solution
+{
+    public bool IsValid(string s)
+    {
+      
     }
 }
