@@ -18,9 +18,14 @@ state(IN PROGRESS、WAITING、SUCCESS)<br>
 2025-05-19<br>
 21.Merge Two Sorted (REVIEW)<p>
 121.Best Time to Buy and Sell Stock(IN PROGRESS)<p>
+2025-05-26<br>
+121.Best Time to Buy and Sell Stock(REVIEW)<p>
+125.Valid Palindrome(Add.)<p>
+2025-05-27<br>
+125.Valid Palindrome(IN PROGRESS)<p> 
 
 
-<h2>從0開始的leetCode</h3>
+<h1>從0開始的leetCode</h1>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kurrxr?ext=activity)
 
