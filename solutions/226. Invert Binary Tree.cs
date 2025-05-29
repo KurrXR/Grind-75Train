@@ -11,10 +11,17 @@
  *     }
  * }
  */
-public class Solution
-{
-    public TreeNode InvertTree(TreeNode root)
-    {
+public class Solution {
+    public TreeNode InvertTree(TreeNode root) {
+        if(root == null){
+            return null;
+        }
+        TreeNode left = InvertTree(root.left);
+        TreeNode right = InvertTree(root.right);
 
+        root.right = left;
+        root.left =right;
+        
+        return root;
     }
 }
